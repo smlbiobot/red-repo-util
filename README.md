@@ -31,3 +31,5 @@ You can then paste into README
 | message_quote |                      | <details><summary>Message Quote</summary>Quote a message from a channel or server.</details>                                                           | SML     |
 | mm            |                      | <details><summary>Member Management</summary>Member management utility for displaying members using multiple role inclusions and exclusions.</details> | SML     |
 | todo          |                      | <details><summary>ToDo</summary>Add todo items in specific channel as reminders for the entire team.</details>                                         | SML     |
+
+This example uses repo at https://github.com/smlbiobot/SML-Cogs-v3
