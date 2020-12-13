@@ -18,6 +18,7 @@ will generate this to console
 | message_quote | Release 1.0          | <details><summary>Message Quote</summary>Quote a message from a channel or server.</details>                                                           | SML     |
 | mm            | Release 1.0          | <details><summary>Member Management</summary>Member management utility for displaying members using multiple role inclusions and exclusions.</details> | SML     |
 | todo          | Release 1.0          | <details><summary>ToDo</summary>Add todo items in specific channel as reminders for the entire team.</details>                                         | SML     |```
+```
 
 You can then paste into README
 
@@ -30,4 +31,5 @@ You can then paste into README
 | message_quote | Release 1.0          | <details><summary>Message Quote</summary>Quote a message from a channel or server.</details>                                                           | SML     |
 | mm            | Release 1.0          | <details><summary>Member Management</summary>Member management utility for displaying members using multiple role inclusions and exclusions.</details> | SML     |
 | todo          | Release 1.0          | <details><summary>ToDo</summary>Add todo items in specific channel as reminders for the entire team.</details>                                         | SML     |
+
 This example uses repo at https://github.com/smlbiobot/SML-Cogs-v3
