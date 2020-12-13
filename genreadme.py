@@ -41,7 +41,7 @@ def main(args):
 
             info = dict(
                 name=folder,
-                status="",
+                status=data.get('status', ''),
                 description=description,
                 authors=', '.join(data.get('author', []))
             )
